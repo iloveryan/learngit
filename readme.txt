@@ -10,4 +10,8 @@ mmm
 
 dev kkk
 
+<<<<<<< HEAD
 feature1
+=======
+feature1
+>>>>>>> feature1
