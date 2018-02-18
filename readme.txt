@@ -1,5 +1,5 @@
 Git is a distributed version contrlo system.
-Git is free software.
+Git is a free software.
 
 kkk
 
